@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "simple-flask"
+version = "0.1.0"
+description = ""
+authors = ["Gheorghe Mirca <gheorghemirca2000@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flask = "^3.0.3"
+pytest = "^8.2.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -5,6 +5,6 @@ CV_DATA = {
         {"company": "Company B", "role": "Senior Developer", "years": "2022-present"}
     ],
     "education": [
-        {"institution": "University X", "degree": "B.Sc. Computer Science", "years": "2014-2018"}
+        {"institution": "University Xx", "degree": "B.Sc. Computer Science", "years": "2014-2018"}
     ]
 }
